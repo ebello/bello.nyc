@@ -1,4 +1,4 @@
-# fresh project
+# [fresh](https://fresh.deno.dev/) project
 
 ### Usage
 
